@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokensalculate",
+        "uuid": 12485550,
+        "checksum": "sge9mg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
